@@ -1,0 +1,25 @@
+body{ background-color:#b22222; } 
+.rogo{ margin-bottom:20px; } 
+.nav{ padding-top: 4px; } 
+.navbar1{ margin-bottom: 100px; } 
+.navbar-default{ background-color: #ff2222; }
+.nav_header > li >a{ color:white; } 
+.nav > li > a:hover, 
+.nav > li > a:focus { color: #fff; background-color: #da000f; > border-radius: 0; -webkit-border-radius: 0; -moz-border-radius: 0; } 
+.nav > li.active > a, 
+.nav > li.active > a:hover, 
+.nav > li.active > a:focus { color: #fff; background-color: #da000f; > border-radius: 0;  -webkit-border-radius: 0; -moz-border-radius: 0; } 
+#m1 > div ,h3 {margin:0px; padding:0px;} 
+.title{ text-align:center; margin-bottom:30px; margin-top:30px; }
+ .sidemenu{   font-size:40px; text-align:center; } 
+ .side_menu > img{  padding:5px; } 
+ .side_menu{ margin-top:11px;  background-color:#8b0000; text-align:center; } 
+ .side_menu > p{ font-size: 20px; text-align:center; } 
+  .sa > p{ border-bottom:1px dashed; margin:0px; padding:15px; } 
+ #tizu-title{  margin-bottom:10px; text-align:center; color:black; text-shadow:1px 1px 3px white; } 
+ p { color:white; } 
+ .main{margin-bottom: 50px; } 
+.supu >p{font-size:24px;}
+.men > p {font-size:25px;margin-top:100px;}
+.img1{margin-top:100px;}
+

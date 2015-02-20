@@ -1,0 +1,172 @@
+body{
+	background-color:#b22222;
+}
+#pagebody{
+	margin:0 auto;
+	//width:1000px;
+	width:1200px;
+}
+.rogo{
+	margin-bottom:20px;
+}
+.nav{
+	padding-top: 4px;
+}
+.navbar1{
+	margin-bottom: 100px;
+}
+  .padding-none {
+  //padding: 0;
+  } 
+  .navbar-default{
+ 	background-color: #ff2222;
+ } 
+.nav_header > li >a{
+	color:white;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  color: #fff;
+  background-color: #da000f;
+> border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+  }
+.nav > li.active > a,
+.nav > li.active > a:hover,
+.nav > li.active > a:focus {
+  color: #fff;
+  background-color: #da000f;
+> border-radius: 0;             
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+}
+
+ #menu > div ,h3 {
+	display:block;
+	//width:610px;
+	width:710px;
+	margin:0;
+	padding:0;
+} 
+ #menu1{
+	//width:610px;
+	width:710px;
+	//background-color:blue;
+	float:left;
+	margin-right:60px;
+}  
+.title{
+	text-align:center;
+	margin-bottom:30px;
+	margin-top:30px;
+	
+}
+#side{
+	width:425px;
+//width:325px;
+height:700px;
+background-color:#8b0000;
+float:left;
+}
+#side_menu{
+	//width:325px;
+	width:425px;
+	height:50px;
+	background-color:blue;
+	font-size:40px;
+	text-align:center;
+}
+.side_menu > img{
+	margin-left:13px;
+	padding:5px;
+}
+.side_menu{
+	margin-top:11px;
+	//width:325px;
+width:425px;
+	height:180px;
+	background-color:#8b0000;
+}
+.side_menu > p{
+	font-size: 20px;
+	text-align:center;
+}
+#tizu{
+ float:left;
+ //width:500px;
+	width: 600px;
+ height:480px;
+ //border:1px solid;
+ //background-color:pink;
+}
+#tizu >h2{
+	margin:0px;
+	padding:0px;
+}
+#sa{
+	//text-align:center;
+	//width:500px;
+	width:600px;
+	height:235px;
+	//background-color:yellow;
+}
+#sa > p{
+	border-bottom:1px dashed;
+	margin:0px;
+	padding:15px;
+}
+ #tizu_img{
+	//width:500px;
+	width: 600px;
+	height:225px;
+	//background-color: black;
+	margin:0px;
+	padding:0px;
+	float:left;
+} 
+
+.ti{
+	//background-color:yellow;
+	//width:500px;
+	width: 600px;
+	float:left;
+	height:483px;
+	text-align:right;
+}
+
+
+ #tizu-title{
+ 	width:1000px;
+ 	height:50px;
+ 	line-height:50px;
+ 	margin-bottom:10px;
+ 	text-align:center;
+ 	color:black;
+ 	text-shadow:1px 1px 3px white;
+
+ }
+ p {
+ 	color:white;
+ }
+
+.main{
+	margin-left:27.5px;
+	margin-bottom: 50px;
+}
+.t{
+	margin: 0px;
+	padding: 0px;
+	float:left;
+}
+/* .supu{
+	width:300px;
+	height:150px;
+	background-color: blue;
+	 }
+.supu1{
+	font-size:20px;
+	width:600px;
+	height:200px;
+	background-color:yellow;
+} */
